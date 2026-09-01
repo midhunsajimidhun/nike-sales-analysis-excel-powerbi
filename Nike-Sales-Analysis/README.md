@@ -159,7 +159,7 @@ Implemented:
 
 ## Executive Overview
 
-![Executive Overview](Screenshots/01_Executive_Overview.png)
+![Home Page Overview](Screenshots/01_Home_Page.png)
 
 ## Product Analysis
 

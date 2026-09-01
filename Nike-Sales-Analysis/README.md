@@ -157,7 +157,7 @@ Implemented:
 
 # 📸 Dashboard Preview
 
-## Executive Overview
+##  Home Page
 
 ![Home Page Overview](Screenshots/01_Home_Page.png)
 
